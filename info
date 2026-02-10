@@ -1,0 +1,16 @@
+Fullname = "Marx Maolen"
+Age = 18
+Height = 1.57
+Currently_working = False
+
+print("Full name:" , Fullname) 
+print(type(Fullname))
+
+print("\nAge: " , Age)
+print(type(Age))
+
+print("\nHeight in meters: " , Height)
+print(type(Height))
+
+print("\n Currently Working: " , Currently_working)
+print(type(Currently_working))
